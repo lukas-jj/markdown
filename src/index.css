@@ -1,0 +1,17 @@
+*{
+  margin: 0 auto;
+}
+
+
+#Header {
+  border-bottom: ridge;
+  border-color:black;
+  border-width: 1px;
+  display: flex; 
+  justify-content: center;
+  background-color: #b100b1;
+  color: #ffffff;
+  padding:.5rem;
+}
+
+
