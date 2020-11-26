@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/lukas-jj/markdown.git/static/css/main.a55322de.chunk.css",
+    "main.js": "/lukas-jj/markdown.git/static/js/main.5fb3d315.chunk.js",
+    "main.js.map": "/lukas-jj/markdown.git/static/js/main.5fb3d315.chunk.js.map",
+    "runtime-main.js": "/lukas-jj/markdown.git/static/js/runtime-main.07b49435.js",
+    "runtime-main.js.map": "/lukas-jj/markdown.git/static/js/runtime-main.07b49435.js.map",
+    "static/js/2.64d0a10a.chunk.js": "/lukas-jj/markdown.git/static/js/2.64d0a10a.chunk.js",
+    "static/js/2.64d0a10a.chunk.js.map": "/lukas-jj/markdown.git/static/js/2.64d0a10a.chunk.js.map",
+    "index.html": "/lukas-jj/markdown.git/index.html",
+    "precache-manifest.6ff5c141963d9adf4cc0bfdca355b0c5.js": "/lukas-jj/markdown.git/precache-manifest.6ff5c141963d9adf4cc0bfdca355b0c5.js",
+    "service-worker.js": "/lukas-jj/markdown.git/service-worker.js",
+    "static/css/main.a55322de.chunk.css.map": "/lukas-jj/markdown.git/static/css/main.a55322de.chunk.css.map",
+    "static/js/2.64d0a10a.chunk.js.LICENSE.txt": "/lukas-jj/markdown.git/static/js/2.64d0a10a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07b49435.js",
+    "static/js/2.64d0a10a.chunk.js",
+    "static/css/main.a55322de.chunk.css",
+    "static/js/main.5fb3d315.chunk.js"
+  ]
+}
